@@ -20,6 +20,6 @@ This interactive map is updated whenever it requests the most recent weekly data
 
 <img src="https://github.com/Jay-ni13/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satellite_map.png" width=95%>
 
-3. A night navigation view map--shown with all three overlays: all earthquakes, major earthquakes, and tectonic plates--which pinpoints the only earthquake from the past week with a magnitude greater than 6, which occured on 12/14/2022 at approx. 12:40pm in the Rat Islands/Aleutian Islands with a magnitude of 6.3 on the Richter scale.
+3. A night navigation view map--shown with all three overlays: earthquakes, major earthquakes, and tectonic plates--pinpoints the only earthquake from the past week with a magnitude greater than 6, which occured on 12/14/2022 at approx. 12:40pm in the Rat Islands/Aleutian Islands with a magnitude of 6.3 on the Richter scale.
 
 <img src="https://github.com/Jay-ni13/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/night_navigation_map.png" width=95%>
