@@ -23,3 +23,6 @@ This interactive map is updated whenever it requests the most recent weekly data
 3. A night navigation view map--shown with all three overlays: earthquakes, major earthquakes, and tectonic plates--pinpoints the only earthquake from the past week with a magnitude greater than 6, which occured on 12/14/2022 at approx. 12:40pm in the Rat Islands/Aleutian Islands with a magnitude of 6.3 on the Richter scale.
 
 <img src="https://github.com/Jay-ni13/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/night_navigation_map.png" width=95%>
+
+### Recommendations
+Though this map contains a large number of reported earthquakes, the most complete reports appear to come from within U.S. territories as the magnitude of earthquake data points from countries outside the United States are all 2 or higher on the Richter scale. The Disaster Reporting Network can further improve upon this project by creating more detailed regional maps with input from multiple data sources.
