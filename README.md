@@ -11,7 +11,7 @@ Building an [interactive map](https://jay-ni13.github.io/Mapping_Earthquakes/) f
 - Software: JavaScript vES6+, Bootstrap v5.2.3, CSS v3, VS Code v1.73.1
 
 ## Summary
-This [interactive map](https://jay-ni13.github.io/Mapping_Earthquakes/) is updated whenever it requests the most recent weekly data from the U.S. Geological Survey Earthquake Hazards Program. It contains three different map views with three different overlays and a legend that indicates the magnitude of the earthquakes:
+This [Recent Earthquakes GeoJSON Map](https://jay-ni13.github.io/Mapping_Earthquakes/) is updated whenever it requests the most recent weekly data from the U.S. Geological Survey Earthquake Hazards Program. It contains three different map views with three different overlays and a legend that indicates the magnitude of the earthquakes:
 1. A street view map--shown with the tectonic plates and all earthquakes overlays--which indicates that most of the earthquakes that occured in the United States in the past week were on the West Coast, near the San Andreas fault line.
 
 <img src="https://github.com/Jay-ni13/Mapping_Earthquakes/blob/main/static/images/streets_map.png" width=95%>
