@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 ## Project Overview
-Building an [interactive map](https://jay-ni13.github.io/Mapping_Earthquakes/) for the Disaster Reporting Network--a non-profit company that provides data-driven storytelling on disasters around the world--that shows the magnitude of all global reported earthquakes over the past 7 days in relation to fault lines and tectonic plates.
+Building an interactive map for the Disaster Reporting Network--a non-profit company that provides data-driven storytelling on disasters around the world--that shows the magnitude of all global reported earthquakes over the past 7 days in relation to fault lines and tectonic plates.
 
 ## Resources
 - Data Sources:
